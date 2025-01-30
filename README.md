@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Saurabh Katkade ,a web developer
-- 👀 I’m interested in Javascript,Java,React,SpringBoot,MySql
-- 🌱 I’m currently learning Full Stack Developement
+- 👋 Hi, I’m Saurabh Katkade, Frontend developer at @Cybage Software
+- 👀 I’m interested and experience in frontend tech skills such as HTML5, CSS3, JavaScript, TypeScript, Material UI, ReactJs, VueJs, Jest and Vite.
+- 🌱 I’m currently working as a full time frontend developer.
 - 📫 How to reach me ...
         - Twitter username - @iamsaurabh_dev
 
